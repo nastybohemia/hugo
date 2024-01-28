@@ -17,6 +17,11 @@ enableInlineShortcodes = true
     url = "/about/"
     weight = 10
     [[menu.main]]
+    identifier = "code"
+    name = "Code"
+    url = "/code/"
+    weight = 10
+    [[menu.main]]
     identifier = "home"
     name = "Writing"
     url = "/"
@@ -30,6 +35,11 @@ enableInlineShortcodes = true
     identifier = "music"
     name = "Music"
     url = "/music/"
+    weight = 10
+    [menu.main]]
+    identifier = "model"
+    name = "Modeling"
+    url = "/model/"
     weight = 10
 
 [taxonomies]
