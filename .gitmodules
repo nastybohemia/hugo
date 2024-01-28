@@ -7,3 +7,6 @@
 [submodule "glim-midnight"]
 	path = glim-midnight
 	url = https://github.com/mansoorbarri/glim-midnight.git
+[submodule "themes/adritian"]
+	path = themes/adritian
+	url = https://github.com/zetxek/adritian-free-hugo-theme.git
