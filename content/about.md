@@ -46,7 +46,7 @@ Versatile
 
  skill:
     title: Skills
-    panelId: skill-panel
+    {{< skill-panel
     icon: fas fa-cogs
     list:
       - skill: "Skill 1, Skill 2"
@@ -54,4 +54,4 @@ Versatile
       - skill: Skill 3
         skillrating: 80
       - skill: Skill 4
-        skillrating: 50
+        skillrating: 50 >}}
