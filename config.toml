@@ -42,7 +42,7 @@ enableInlineShortcodes = true
     weight = 10
     [[menu.main]]
     identifier = "home"
-    name = "Writing"
+    name = "Timeline"
     url = "/"
     weight = 1
   [[menu.main]]
@@ -59,6 +59,11 @@ enableInlineShortcodes = true
     identifier = "model"
     name = "Modeling"
     url = "/model/"
+    weight = 10
+    [[menu.main]]
+    identifier = "writing"
+    name = "Writing"
+    url = "/posts/"
     weight = 10
 
 [[menu.header]]
