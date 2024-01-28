@@ -36,7 +36,7 @@ enableInlineShortcodes = true
     name = "Music"
     url = "/music/"
     weight = 10
-    [menu.main]]
+    [[menu.main]]
     identifier = "model"
     name = "Modeling"
     url = "/model/"
