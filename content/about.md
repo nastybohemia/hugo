@@ -12,7 +12,7 @@ I express myself through art and development of new technologies. You may consid
 One of my first interests as a kid was storytelling. I started by writing comics and small news features for my family.
 Screenwriting laid my carrier in film. And now, for over a decade in the film industry, I have experienced being a producer, video editor, colorist, film director, and screenwriter. During this time, I created over three hundred video works.
 After school, I acquired a technical background in IT with system, network & database administration, full-stack & blockchain development, cloud & quantum computing, penetration testing & cybersecurity. All this knowledge led me to build products and learn more about business, marketing, and sales. Through the business side, I have learned the importance of research, planning, and execution. I am now looking to use my knowledge to help others achieve their goals, and my dedication is to make the world a better place.
-
+## Strengths
 ### Physical
 #### Aesthetics & Style
 #### Attractive
@@ -24,3 +24,25 @@ After school, I acquired a technical background in IT with system, network & dat
 #### Honest
 #### Patient
 #### Trustworthy
+### Emotional
+#### Applying Ethics, Philosophy
+#### Critical Thinking
+#### Decision Making
+#### Detail Oriented
+#### Disciplined
+#### High Tolerance
+#### Long Attention Span
+#### Personal Resilience
+#### Humble
+#### Loyal to Ideas
+### Practical
+#### Creative
+#### Confidential
+#### Fast Learner
+#### Logical
+#### Organized
+#### Resourceful
+#### Problem Solver
+#### Strong Sense of Direction
+#### Technical
+#### Versatile
