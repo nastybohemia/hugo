@@ -67,7 +67,8 @@ enableEmoji = true
     url = "/posts/"
     weight = 10
 
-    [params.author]
+    [[params.author]]
+    identifier = "links"
   name = "Lynx"
   headline = "A simple links theme for Hugo built with Tailwind CSS"
   links = [
