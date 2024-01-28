@@ -1,7 +1,7 @@
 +++
 author = "Sofia Popova"
 title = "Should the federal government have more power to require greater uniformity in policy among the states?"
-date = "2019-03-11"
+date = "2023-12-03"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
