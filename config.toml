@@ -65,13 +65,13 @@ enableEmoji = true
 
 
   [[menu.footer]]
-  name = "About"
-  URL = "#about"
+  name = "Privacy"
+  URL = "/privacy"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Terms"
+  URL = "/terms"
   weight = 3
 
   [[menu.footer]]
