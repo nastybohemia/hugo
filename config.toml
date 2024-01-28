@@ -111,6 +111,12 @@ series = "series"
   [services.twitter]
     disableInlineCSS = true
 
+
+[sitemap]
+  changeFreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = -1
+
 [params]
 
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
