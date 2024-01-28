@@ -44,6 +44,7 @@ Problem Solver                  | Poor judge of character
 Strong Sense of Direction
 Technical
 Versatile
+<br>
 +-------------------+                        
 |    A Box          |__.--.__    __.-->         
 |                   |        '--'               
