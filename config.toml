@@ -51,6 +51,7 @@ enableEmoji = true
     [[menu.main]]
     identifier = "links"
   name = "Links"
+  url = "/links/"
   headline = "A simple links theme for Hugo built with Tailwind CSS"
   links = [
     { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
