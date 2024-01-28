@@ -1,4 +1,4 @@
-theme = "black-and-light"
+theme = "glim-midnight"
 relativeURLs = true
 baseURL = "/"
 title = "Hugo Themes"
