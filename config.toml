@@ -10,25 +10,6 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 enableEmoji = true
 
-# Plugins
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "css/main.css"
-  [[params.plugins.css]]
-  URL = "css/rad-icons.css"
-  [[params.plugins.css]]
-  URL = "css/custom.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "js/rad-animations.js"
-  [[params.plugins.js]]
-  URL = "js/sticky-header.js"
-  [[params.plugins.js]]
-  URL = "js/library/fontfaceobserver.js"
-
 [menu]
 
   [[menu.main]]
@@ -67,9 +48,9 @@ enableEmoji = true
     url = "/posts/"
     weight = 10
 
-    [[params.author]]
+    [[menu.main]]
     identifier = "links"
-  name = "Lynx"
+  name = "Links"
   headline = "A simple links theme for Hugo built with Tailwind CSS"
   links = [
     { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
@@ -152,3 +133,21 @@ series = "series"
   [params.logo]
     text1 = "Andreas"
     text2 = "Ellure"
+  # Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
