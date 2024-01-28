@@ -12,14 +12,24 @@ enableInlineShortcodes = true
 [menu]
 
   [[menu.main]]
-    identifier = "home"
-    name = "Writing"
-    url = "/writing/"
-    weight = 1
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 10
+    [[menu.main]]
+    identifier = "home"
+    name = "Writing"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "motion"
+    name = "Motion Pictures"
+    url = "/videos/"
+    weight = 10
+    [[menu.main]]
+    identifier = "music"
+    name = "Music"
+    url = "/music/"
     weight = 10
 
 [taxonomies]
