@@ -43,8 +43,7 @@ could have a chronically homeless population the size of the city of Manhattan B
 The “Housing First” program supporters believe that everybody deserves a home.
 They have several arguments to back up their opinion. The first one is the reduction of
 criminal justice system costs. Housing programs relieve the burden on law enforcement,
-hospitals, and downtown areas. Secretary of the U.S. Department of Housing and Urban Development under President Obama said it’s “cheaper to solve homelessness than it is to put
-a band-aid on it.” Back in 2012, it cost “about $40,000 a year for a homeless person to be on
+hospitals, and downtown areas. Secretary of the U.S. Department of Housing and Urban Development under President Obama said it’s “cheaper to solve homelessness than it is to put a band-aid on it.” Back in 2012, it cost “about $40,000 a year for a homeless person to be on
 the streets”.
 ####
 The second advantage of the program is the improvement of the nation’s health index
