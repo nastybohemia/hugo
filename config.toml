@@ -9,6 +9,25 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
 [menu]
 
   [[menu.main]]
@@ -42,6 +61,37 @@ enableInlineShortcodes = true
     url = "/model/"
     weight = 10
 
+[[menu.header]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.header]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+
+  [[menu.footer]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
 [taxonomies]
 category = "categories"
 tag = "tags"
@@ -73,3 +123,14 @@ series = "series"
 
   [services.twitter]
     disableInlineCSS = true
+
+[params]
+
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+  homepageExperienceCount = 6
+  
+  [params.logo]
+    text1 = "Andreas"
+    text2 = "Ellure"
