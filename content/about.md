@@ -43,3 +43,15 @@ Problem Solver                  | Poor judge of character
 Strong Sense of Direction
 Technical
 Versatile
+
+ skill:
+    title: Skills
+    panelId: skill-panel
+    icon: fas fa-cogs
+    list:
+      - skill: "Skill 1, Skill 2"
+        skillrating: 90
+      - skill: Skill 3
+        skillrating: 80
+      - skill: Skill 4
+        skillrating: 50
