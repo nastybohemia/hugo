@@ -1,6 +1,6 @@
 +++
 author = "Sofia Popova"
-title = "Is the "Housing First" Approach the Best Way to Fight Homelessness? : Living It from the Inside"
+title = "Is the Housing First Approach the Best Way to Fight Homelessness? : Living It from the Inside"
 date = "2023-12-14"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
