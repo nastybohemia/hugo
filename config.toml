@@ -8,6 +8,7 @@ paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
+enableEmoji = true
 
 # Plugins
 [params.plugins]
