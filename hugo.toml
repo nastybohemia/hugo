@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "/"
 copyright = "© Will Faught"
 enablerobotstxt = true
 languagecode = "en-us"
