@@ -43,6 +43,3 @@ Problem Solver                  | Poor judge of character
 Strong Sense of Direction
 Technical
 Versatile
-
-{{< skill name = "Skill 1, Skill 2"
-    skillrating = "90" >}}
