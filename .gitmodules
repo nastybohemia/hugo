@@ -4,3 +4,6 @@
 [submodule "themes/themes/paige"]
 	path = themes/themes/paige
 	url = https://github.com/willfaught/paige.git
+[submodule "glim-midnight"]
+	path = glim-midnight
+	url = https://github.com/mansoorbarri/glim-midnight.git
