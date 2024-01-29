@@ -47,6 +47,11 @@ enableEmoji = true
     name = "Writing"
     url = "/posts/"
     weight = 10
+    [[menu.main]]
+    identifier = "photojournalism"
+    name = "Photo Journalism"
+    url = "/photos/"
+    weight = 10
 
   [[menu.header]]
   name = "Contact"
